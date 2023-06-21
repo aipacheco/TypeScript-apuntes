@@ -16,5 +16,7 @@ export class SuperClass {
   }
 }
 
+
 const myClass = new SuperClass()
+
 console.log(myClass) //esto nos devuelve la clase SuperClass con las propiedades newProperty y hello
